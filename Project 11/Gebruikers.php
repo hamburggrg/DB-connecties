@@ -1,7 +1,7 @@
 <?php
 $server = "localhost";
 $gebruiker = "root";
-$wachtwoord = "j4mbo23";
+$wachtwoord = "(your password here)";
 $databasenaam = "keukenprins";
 
 $dbVerbinding = new mysqli($server,$gebruiker,$wachtwoord,$databasenaam);
